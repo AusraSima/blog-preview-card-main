@@ -83,7 +83,7 @@ body {
             color: var(--gray500);
         }
 
-        picture {
+        .picture {
             margin-top: 2rem;
             display: flex;
             gap: 1rem;
